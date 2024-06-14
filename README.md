@@ -1,6 +1,6 @@
 ![MasterHead](https://www.clarkson.edu/sites/default/files/2023-06/Mathematics-Hero-1600x900.jpg)
 <h1 align="center" style="font-family: monospace; font-size: 24px; color: #0077b6;">👋, my name is Volodymyr Pruhlo</h1>
-<h3 align="center" style="font-family: monospace; font-size: 24px; color: #0077b6;">I'm at the beginning of the path to a data engineer position.</h3>
+<h3 align="center" style="font-family: monospace; font-size: 24px; color: #0077b6;">PM</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=famm1&label=Profile%20views&color=0e75b6&style=flat" alt="famm1" /> </p>
