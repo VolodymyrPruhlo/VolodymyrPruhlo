@@ -1,5 +1,5 @@
 ![MasterHead](https://cdn.worldvectorlogo.com/logos/devops-2.svg)
-<h1 align="center" style="font-family: monospace; font-size: 24px; color: #0077b6;">👋, my name is Volodymyr Pruhlo</h1>
+<h1 align="center" style="font-family: monospace; font-size: 24px; color: #0077b6;">My name is Volodymyr Pruhlo</h1>
 <h3 align="center" style="font-family: monospace; font-size: 24px; color: #0077b6;">I’m Devops Engineer</h3>
 
 
