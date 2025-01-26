@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=famm1&label=Profile%20views&color=0e75b6&style=flat" alt="famm1" /> </p>
 
-- 👩🏼‍🚀 I’m working on [MoonActive](https://www.moonactive.com/)
+- 👩🏼‍🚀 I’m working in [MoonActive](https://www.moonactive.com/)
 
 - 📫 How to reach me **vova.pruglo22@gmail.com**
 
